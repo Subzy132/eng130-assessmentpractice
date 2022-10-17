@@ -15,3 +15,5 @@ number = int(input("Input a number:"))
 print(odd_even_counter(number))
 
 
+
+
